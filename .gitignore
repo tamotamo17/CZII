@@ -1,0 +1,7 @@
+
+# Pythonのキャッシュファイル
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebookの出力ファイル
+.ipynb_checkpoints/
